@@ -1,4 +1,5 @@
 E-commerce Data Analysis Report
+
 This repository features a high-level E-commerce Data Analysis Report, built using Power BI (ECom_Project.pbix), designed to offer stakeholders an immediate and detailed view of overall business performance, as illustrated by the dashboard image. The report translates raw data into actionable insights by visualizing $12.64 Million in total sales and $1.47 Million in profit across several key dimensions. Visualizations confirm that the US/EMEA/Technology are the top drivers. This supports data-driven decisions on inventory and strategy.
 
 📊 Dashboard Overview
@@ -11,6 +12,7 @@ Sales Distribution: Charts breaking down sales by Country (e.g., United States i
 Geographic Analysis: Detailed view of Sales by State.
 
 🛠️ Technology
+
 ✅Visualization & Modeling: Power BI
 
 ✅Data Source: ECom_Project.pbix (uploaded file)
