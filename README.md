@@ -25,3 +25,5 @@ To explore the interactive report:
 🔵Ensure you have Power BI Desktop installed.
 
 🔵Open the ECom_Project.pbix file.
+
+Screenshot :- https://github.com/Abir-2005/E-Commerce-report/blob/main/Snapshot%20of%20E-com%20Report.png
